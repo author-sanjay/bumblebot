@@ -3,6 +3,9 @@
 
 ![Logo](https://sm.pcmag.com/pcmag_au/review/b/bumble/bumble_2nx8.jpg)
 
+# TODO
+## Adding Machine Learning And AI is pending
+
 
 # Bumble Bot
 
